@@ -7,7 +7,7 @@
 </div>
 
 [![Phyllipi GitHub stats](https://github-readme-stats.vercel.app/api?username=Phyllipi&count_private=true&show_icons=true&theme=cobalt&count_private=true&include_all_commits)](https://github.com/Phyllipi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phyllipi&layout=compact&langs_count=10&theme=cobalt&card_width=250&card_height=350&)](https://github.com/Phyllipi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phyllipi&layout=compact&langs_count=10&theme=cobalt)](https://github.com/Phyllipi)
 
 
 <div style="display:inline_block">
