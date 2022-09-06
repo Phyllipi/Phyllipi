@@ -3,7 +3,7 @@
 <div aling="centro"> 
   <a href="https://github.com/phyllipi">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Phyllipi&count_private=true&show_icons=true&theme=cobalt&count_private=true&include_all_commits">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phyllipi&layout=compact&langs_count=10&theme=cobalt">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phyllipi&layout=compact&langs_count=10&theme=cobalt&count_private&">
 </div>
 
 
