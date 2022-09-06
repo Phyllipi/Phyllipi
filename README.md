@@ -1,13 +1,10 @@
 ## Olá! Sou o Marcos Phyllipi.
 
-<div aling="centro">
-  <a href="https://github.com/Phyllipi" 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Phyllipi&count_private=true_showicons=true&theme=cobalt">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phyllipi&layout=compact&langs_count=10&theme=cobalt">
+<div aling="centro"> 
+  <a href="https://github.com/phyllipi">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Phyllipi&count_private=true&show_icons=true&theme=cobalt&count_private=true&include_all_commits">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phyllipi&layout=compact&langs_count=10&theme=cobalt">
 </div>
-
-[![Phyllipi GitHub stats](https://github-readme-stats.vercel.app/api?username=Phyllipi&count_private=true&show_icons=true&theme=cobalt&count_private=true&include_all_commits)](https://github.com/Phyllipi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phyllipi&layout=compact&langs_count=10&theme=cobalt)](https://github.com/Phyllipi)
 
 
 <div style="display:inline_block">
