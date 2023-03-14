@@ -20,8 +20,9 @@
   <p class="destaque">Tenho 30 anos e um filho de 8 aninhos, moro em Recife/PE.<br>
         Sou estudante em ADS e estou cursando o segundo período.<br>
         Também faço curso de HTML5, CSS3, JavaScrip, etc...<br>
-        Entrei recentemente nessa área de programação e de desenvolvimento com o conhecimento bem baixo e pretendo ser o melhor <br>
-        que eu coneseguir.</p>
+        Entrei recentemente nessa área de programação e de desenvolvimento<br>
+        com o conhecimento bem baixo e pretendo ser o melhor<br>
+    que eu coneseguir.</p>
       
   <h2>Como falar comigo?</h2>  
  <div>
