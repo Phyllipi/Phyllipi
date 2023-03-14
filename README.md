@@ -18,7 +18,7 @@
   <h1>Quem sou eu?</h1>
   <img src="https://user-images.githubusercontent.com/109820352/186963760-dc4f1a5c-ba44-4d10-a3fb-2059808d8d33.png" alt="">
   <p class="destaque">Tenho 30 anos e um filho de 8 aninhos, moro em Recife/PE.<br>
-        Sou estudante em ADS (Analise e Desenvolvimento de Sistemas)e estou cursando o segundo período.<br>
+        Sou estudante em ADS e estou cursando o segundo período.<br>
         Também faço curso de HTML5, CSS3, JavaScrip, etc...<br>
         Entrei recentemente nessa área de programação e de desenvolvimento com o conhecimento bem baixo e pretendo ser o melhor <br>
         que eu coneseguir.</p>
